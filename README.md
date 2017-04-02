@@ -1,5 +1,7 @@
 # database
 
-SELECT * FROM topic;
+`./mysql -hlocalhost -uroot -p`
 
-SELECT id,title,author,created FROM topic;
+`SELECT * FROM topic;`
+
+`SELECT id,title,author,created FROM topic;`
